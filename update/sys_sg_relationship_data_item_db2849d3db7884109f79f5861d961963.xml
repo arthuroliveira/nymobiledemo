@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_relationship_data_item">
+    <sys_sg_relationship_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Task SLA Relationship Data Item</name>
+        <query_condition/>
+        <query_condition_script/>
+        <relationship>task_sla.task</relationship>
+        <sys_class_name>sys_sg_relationship_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-04 01:21:42</sys_created_on>
+        <sys_id>db2849d3db7884109f79f5861d961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task SLA Relationship Data Item</sys_name>
+        <sys_package display_value="Mobile NY AO " source="x_snc_mobile_ny_ao">af39bc53db3884109f79f5861d961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile NY AO ">af39bc53db3884109f79f5861d961947</sys_scope>
+        <sys_update_name>sys_sg_relationship_data_item_db2849d3db7884109f79f5861d961963</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-04 01:21:42</sys_updated_on>
+        <table>task_sla</table>
+        <table_related_to>incident</table_related_to>
+    </sys_sg_relationship_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=db2849d3db7884109f79f5861d961963"/>
+</record_update>
