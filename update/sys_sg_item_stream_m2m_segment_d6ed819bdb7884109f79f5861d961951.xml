@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
     <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
         <item_stream display_value="Incident Item Stream">cea97493db3884109f79f5861d96193a</item_stream>
-        <segment display_value="Incident Item Stream Segment">eccd019bdb7884109f79f5861d96195a</segment>
+        <segment display_value="Incidents">eccd019bdb7884109f79f5861d96195a</segment>
         <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-04 01:46:23</sys_created_on>
