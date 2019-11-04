@@ -3,7 +3,7 @@
         <available_offline>false</available_offline>
         <description> Incident</description>
         <dynamic_prefetch_count/>
-        <fetch_type>not_required</fetch_type>
+        <fetch_type>on_demand</fetch_type>
         <hide_filters>false</hide_filters>
         <icon display_value="icon-Address-Book">06a9fc53db3884109f79f5861d9619f8</icon>
         <name>Incidents</name>
@@ -12,14 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-04 00:17:42</sys_created_on>
         <sys_id>46a97493db3884109f79f5861d961934</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Incidents</sys_name>
         <sys_package display_value="Mobile NY AO " source="x_snc_mobile_ny_ao">af39bc53db3884109f79f5861d961947</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile NY AO ">af39bc53db3884109f79f5861d961947</sys_scope>
         <sys_update_name>sys_sg_list_screen_46a97493db3884109f79f5861d961934</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-04 00:17:42</sys_updated_on>
+        <sys_updated_on>2019-11-04 00:55:25</sys_updated_on>
     </sys_sg_list_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=46a97493db3884109f79f5861d961934"/>
 </record_update>

@@ -11,7 +11,7 @@
         <confirm_label/>
         <confirmation_message/>
         <context>record</context>
-        <description>Assigned to</description>
+        <description/>
         <destination_screen display_value="Assigned To">61ceb4d7db3884109f79f5861d9619c2</destination_screen>
         <external_browser>false</external_browser>
         <failure_message/>
@@ -25,7 +25,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Navigate to Assigned to</name>
+        <name>Navigate To Assigned To</name>
         <offline>false</offline>
         <offline_template_field/>
         <offline_template_field_table/>
@@ -46,16 +46,16 @@
         <success_message/>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-11-04 00:41:22</sys_created_on>
-        <sys_id>281f701bdb3884109f79f5861d96193d</sys_id>
+        <sys_created_on>2019-11-04 00:53:06</sys_created_on>
+        <sys_id>f8c1015fdb3884109f79f5861d96190a</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>Navigate to Assigned to</sys_name>
+        <sys_name>Navigate To Assigned To</sys_name>
         <sys_package display_value="Mobile NY AO " source="x_snc_mobile_ny_ao">af39bc53db3884109f79f5861d961947</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile NY AO ">af39bc53db3884109f79f5861d961947</sys_scope>
-        <sys_update_name>sys_sg_button_281f701bdb3884109f79f5861d96193d</sys_update_name>
+        <sys_update_name>sys_sg_button_f8c1015fdb3884109f79f5861d96190a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-04 00:42:17</sys_updated_on>
+        <sys_updated_on>2019-11-04 00:53:30</sys_updated_on>
         <table>incident</table>
         <take_value_from_field>true</take_value_from_field>
         <type>redirection</type>
@@ -63,5 +63,5 @@
         <write_back_action_item/>
         <zombified_screens/>
     </sys_sg_button>
-    <sys_translated_text action="delete_multiple" query="documentkey=281f701bdb3884109f79f5861d96193d"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=f8c1015fdb3884109f79f5861d96190a"/>
 </record_update>
