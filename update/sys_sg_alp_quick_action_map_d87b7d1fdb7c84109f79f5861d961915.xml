@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Mobile NY AO ">caa9fc53db3884109f79f5861d9619f9</applet_launcher>
+        <order/>
+        <quick_action_button display_value="Launch VA">7a7bfd1fdb7c84109f79f5861d96193c</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>arthur</sys_created_by>
+        <sys_created_on>2019-11-04 05:06:36</sys_created_on>
+        <sys_id>d87b7d1fdb7c84109f79f5861d961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile NY AO " source="x_snc_mobile_ny_ao">af39bc53db3884109f79f5861d961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile NY AO ">af39bc53db3884109f79f5861d961947</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_d87b7d1fdb7c84109f79f5861d961915</sys_update_name>
+        <sys_updated_by>arthur</sys_updated_by>
+        <sys_updated_on>2019-11-04 05:06:36</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+</record_update>
